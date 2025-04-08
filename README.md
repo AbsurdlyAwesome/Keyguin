@@ -55,23 +55,13 @@ To preview the final build locally:
 npm run preview
 ```
 
----
 
-## 🎨 UI & Styling
-
-Keyguin uses **Tailwind CSS** and **DaisyUI** to make the UI delightful and component-rich.
-
-DaisyUI gives you easy access to styled components out of the box:
-
-```html
-<button class="btn btn-secondary">Buy Key</button>
-```
 
 Check out [DaisyUI docs](https://daisyui.com/components/) for full component usage and theming.
 
 ---
 
-## 🚚 Deployment
+## Deployment
 
 To deploy Keyguin, install the appropriate [SvelteKit adapter](https://kit.svelte.dev/docs/adapters) for your platform:
 
@@ -92,7 +82,7 @@ export default {
 ```
 
 
-## 🧊 Project Stack
+## Project Stack
 
 - **Framework:** [SvelteKit](https://kit.svelte.dev)
 - **CLI:** [`sv`](https://github.com/sveltejs/cli)
@@ -100,7 +90,7 @@ export default {
 - **UI:** [DaisyUI](https://daisyui.com)
 
 
-## 📄 License
+##  License
 
 MIT — parody project for educational and entertainment purposes only.
 ```

@@ -2,7 +2,7 @@
 # 🐧 Keyguin — A Parody Key Store
 
 Keyguin is a parody digital storefront built with [SvelteKit](https://kit.svelte.dev), styled using [Tailwind CSS](https://tailwindcss.com) and [DaisyUI](https://daisyui.com)
-This is Just for educational Purposes, feeel free to sue this as a template.
+This is Just for educational Purposes, feeel free to use this as a template.
 ---
 
 ## Getting Started
